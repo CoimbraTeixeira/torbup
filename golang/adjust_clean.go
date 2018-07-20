@@ -15,7 +15,7 @@ func main() {
 	for i := 2; i <= 10000000; i++ {
 		n := i
 		count := 1
-		for n >= 2 {
+		for n > 1 {
 			rest = n % 2
 			if rest == 0 {
 				n = n / 2
