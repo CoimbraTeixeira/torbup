@@ -30,7 +30,7 @@ func main() {
 
 		for n >= 2 {
 			/*
-				Just count to find the first and second biggest ones, dont care about the slices values
+				Just count dont care about the slices values
 			*/
 			rest = n % 2
 			if rest == 0 {
