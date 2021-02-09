@@ -3,10 +3,6 @@ Rogerio Coimbra Teixeira
 
 Dublin, Ireland.
 
-+353 083 0080605
-
-rot@pobox.com
-
 Available: TBD
 
 24 Years working in critical environments (on-prem, Cloud and Hybrid)
